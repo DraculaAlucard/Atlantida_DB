@@ -1,0 +1,59 @@
+Autor: Leonardo Rodrigues Assunção de Jesus;*/
+/*Estilo CSS somente da página inical index.php/
+
+/*Index.php*/
+
+/*login*/
+.login{
+	margin-top: 15%;
+	height: 50%;
+}
+.login-title{
+	box-shadow: 1px 1px black;
+	background-color: #000000;
+	color:white;
+	font-weight: bolder;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+	border:0px;
+	text-align:center;
+}
+.login-subtitle{
+	box-shadow: 1px 1px black;
+	background-color: #000000;
+	color:white;
+	font-weight: bolder;
+	padding: 5px 20px;
+	border:0px;
+	text-align:center;
+}
+.login-txt{
+	padding: 3px;
+	width: 80%;
+	margin-left: 10%;
+}
+.login-btn{
+	border:none;
+	padding: 10px;
+	width: 60%;
+	cursor: pointer;
+	color:white;
+	background-color: #000000;
+	font-weight: bolder;
+}
+.login-btn:hover{
+	background-color: white;
+	color:#000000;
+	transition: 1s;
+}
+
+/*register*/
+.home{
+	background-image: url("../../midia/img/atlantida-02.jpg");
+	background-size: 80%;
+}
+.corpo{
+	
+}
+/*home
